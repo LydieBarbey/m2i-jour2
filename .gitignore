@@ -1,0 +1,6 @@
+# ignore les fichiers suivants
+config.yaml
+# ignore les fichiers du dossier logs
+/logs/*
+# a l'exception du .gitkeep
+!/logs/.gitkeep
