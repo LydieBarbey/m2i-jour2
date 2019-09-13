@@ -3,9 +3,9 @@
 modif pour patch 2
 
 
-aaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccc
-dddddddddddddddddd
+ababababababababaaaaaaaaa
+babababababababababababbbbbbbbbbbbbbbb
+cdcdcdcdcdcdcdcdccccccccccccc
+dcdcdcdcdcdcdcdcdddddddddd
 eeeeeeeeeeeeeeeee
 fffffffffffffffffff
